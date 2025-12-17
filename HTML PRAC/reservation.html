@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>reservation railway form</title>
+</head>
+
+<body align="center">
+    <h1 align="center">Railway Reservation Form</h1>
+    <h2 align="center">sponsored by IRCTC</h2>
+
+    <hr>
+
+    <form>
+        <label for="rq">Reservation Quota<br></label>
+        <input type="text" id="rq">
+        <br>
+        <label for="pp">Train name<br></label>
+        <input type="text" id="pp">
+        <br>
+        <label for="tt">Train number<br></label>
+        <input type="number" id="tt">
+        <br>
+        <label for="from">Journey From<br></label>
+        <input list="froms" name="from" id="from">
+
+        <datalist id="froms">
+            <option value="Kolkata">
+            <option value="Delhi">
+            <option value="Kanpur">
+        </datalist>
+
+        <br>
+
+        <label for="from">Journey To<br></label>
+        <input list="Tos" name="To" id="To">
+
+        <datalist id="Tos">
+            <option value="Kolkata">
+            <option value="Delhi">
+            <option value="Kanpur">
+        </datalist>
+
+        <br>
+
+        <label for="class">Class<br></label>
+        <input list="classes" name="class" id="class">
+
+        <datalist id="classes">
+            <option value="sleeper">
+            <option value="3AC">
+            <option value="2AC">
+            <option value="1AC">
+        </datalist>
+
+        <br>
+        <label for="rr">Fare<br></label>
+        <input type="number" placeholder="Rupees" id="rr">
+        <br>
+        <label for="dj">Departure/Date Journey<br></label>
+        <input type="date" id="dj">
+        <br>
+
+        <label for="ts">Ticket Status<br></label>
+        <input type="text" id="ts">
+        <br>
+
+        <hr>
+        <h2>Passanger Details</h2>
+        <label for="name">Passanger Name<br></label>
+        <input type="text" id="name">
+        <br>
+
+        <label for="rt">Passanger age<br></label>
+        <input type="number" id="rt">
+        <br>
+
+        <label for="berth">Berth Preferance<br></label>
+        <input list="berths" name="berth" id="berth">
+
+        <datalist id="berths">
+            <option value="Upper">
+            <option value="Middle">
+            <option value="Lower">
+        </datalist>
+        <br>
+
+        <label for="food">Food Preferance<br></label>
+        <input list="foods" name="food" id="food">
+
+        <datalist id="foods">
+            <option value="Veg">
+            <option value="Non-Veg">
+        </datalist>
+        <br>
+        <button type="button">Submit</button>
+    </form>
