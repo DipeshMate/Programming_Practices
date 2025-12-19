@@ -1,0 +1,28 @@
+
+Defination:- Data wrangling, also known as data munging, is the process of cleaning, organizing, and transforming raw data into a usable format for analysis or other purposes.
+Ex: 
+1. you have a Multiple data sources are combined into single dataset for analysis.
+2. Detecting Data Gaps like Empty Cells in a spreadsheet, filling or deleting them or you can say, removing the unnecessary or irrelevant data to the project. 
+3. Explaining or identifying extreme outliers in the data , either explaing or removing them so that data analysis can be proceeded.
+
+IT CAN BE DONE MANUALLY OR AUTOMATICALLY :1
+When Dealing with Extremely large datasets automated data cleaning will be essential.
+data scientist or other team member is usually in charge of data wrangling in an org. that have full data team, non data professionals are freq. in charge of cleaning data before leveraging it in small org.
+
+https://www.qlik.com/us/data-management/data-wrangling
+
+
+## WHAT IS DATA WRANGLING?
+The initial phases of the data analytics process are often referred to as "data wrangling." It entails converting and mapping data between different formats.
+
+The goal is to increase data accessibility for applications like business analytics and machine learning. 
+Numerous tasks may be involved in the data wrangling process. 
+These include activities like gathering data, conducting exploratory analysis, cleaning up the data, building data structures, and storing the data.
+
+
+## Why Data Wrangling?
+
+The knowledge acquired through the data wrangling process can be extremely valuable. 
+They'll probably have an impact on how a project develops going forward. 
+Poor data models will be produced as a result of skipping or rushing this step, which will affect an organization's decision-making and reputation.
+Data wrangling tools organize and transform data to meet the needs of the target system in order to make it usable for the final processes.

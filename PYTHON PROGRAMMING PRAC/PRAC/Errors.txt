@@ -1,0 +1,14 @@
+1. TypeError: prac1.__init__() missing 2 required positional arguments: 'name' and 'age' 
+==>> def __init__(self,name=name,age=age):
+        self.age = age
+        self.name = name
+
+2. a = myworld()
+==> print(a) # <__main__.myworld object at 0x7d287e6716d0>
+==> print(a.show) # <bound method myworld.show of <__main__.myworld object at 0x78204a405670>>
+==> print(a.show()) # None
+
+
+3. make a string into one line by end=" " ==  hello world
+print('hello', end=" ")
+print('world') 
