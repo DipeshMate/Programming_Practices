@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "IsPrime",
+            "request": "launch",
+            "mainClass": "IsPrime",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "justtry",
+            "request": "launch",
+            "mainClass": "justtry",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "LL3",
+            "request": "launch",
+            "mainClass": "LINKEDLISTpractice.LL3",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "LL2",
+            "request": "launch",
+            "mainClass": "LINKEDLISTpractice.LL2",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "LL1",
+            "request": "launch",
+            "mainClass": "LINKEDLISTpractice.LL1",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "LLFrameWork",
+            "request": "launch",
+            "mainClass": "LINKEDLISTpractice.LLFrameWork",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "linkedList",
+            "request": "launch",
+            "mainClass": "LINKEDLISTpractice.linkedList",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "LL",
+            "request": "launch",
+            "mainClass": "LINKEDLISTpractice.LL",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LINKEDLISTpractice.LinkedList",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "twoDArray",
+            "request": "launch",
+            "mainClass": "twoDArray",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "loot",
+            "request": "launch",
+            "mainClass": "loot",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "striver1",
+            "request": "launch",
+            "mainClass": "striver1",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch copying",
+            "request": "launch",
+            "mainClass": "copying",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeftRotation",
+            "request": "launch",
+            "mainClass": "LeftRotation",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch RightRotation",
+            "request": "launch",
+            "mainClass": "RightRotation",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch delete",
+            "request": "launch",
+            "mainClass": "delete",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch insert",
+            "request": "launch",
+            "mainClass": "insert",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch max",
+            "request": "launch",
+            "mainClass": "max",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch searching",
+            "request": "launch",
+            "mainClass": "searching",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch secondLarg",
+            "request": "launch",
+            "mainClass": "secondLarg",
+            "projectName": "JAVA PRACTICE_821983aa"
+        },
+        {
+            "type": "java",
+            "name": "Launch secondlargest",
+            "request": "launch",
+            "mainClass": "secondlargest",
+            "projectName": "JAVA PRACTICE_821983aa"
+        }
+    ]
+}

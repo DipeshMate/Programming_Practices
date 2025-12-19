@@ -1,0 +1,1 @@
+ystem.out.println(sum2[i]);

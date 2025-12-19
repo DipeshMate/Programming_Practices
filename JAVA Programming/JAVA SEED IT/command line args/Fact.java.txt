@@ -1,0 +1,16 @@
+class Fact{
+
+public static void main(String[]v)
+{
+
+int a=Integer.parseInt(v[0]);
+int i,f = 1;
+
+for(i = a; i >= 1 ; i--)
+{
+f=f*i;
+}
+System.out.println(f);
+
+}
+}

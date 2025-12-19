@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../LINKEDLISTpractice"
+		},
+		{
+			"name": "maven_demo_quickpick",
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
